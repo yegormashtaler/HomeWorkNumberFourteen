@@ -1,4 +1,4 @@
-package main.java.org.ithillel.ModifiedHomeWorkNumberFourteen;
+package main.java.org.ithillel.lessons.ModifiedHomeWorkNumberFourteen;
 
 import java.util.Objects;
 import java.util.Scanner;
